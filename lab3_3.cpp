@@ -7,6 +7,7 @@ int main(){
     while(x <= 69){
         sum += 1/x;
         x++;
-    }    
+    }  
+    cout << "Karn Pt 123 " << sum;  
     return 0;
 }
