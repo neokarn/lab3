@@ -8,6 +8,6 @@ int main(){
         sum += 1/x;
         x++;
     }  
-    cout << "Karn Pt 123 " << sum;  
+    cout << "Karn Pt 12345" << sum;  
     return 0;
 }
